@@ -5,12 +5,13 @@ Projektet är byggt med HTML, SCSS och TypeScript i Vite. Användaren kan blädd
 
 ---
 
-## 🚀 Funktioner
-- Landningssida
-- Produktsida med produktdetaljer
-- Varukorg med möjlighet att öka/minska antal produkter
-- Kassasida med simulering av köp
-- Dynamisk prisberäkning
+#🚀 Funktioner
+Landningssida – Välkomnar användaren till webbshopen.
+Produktsida – Visar detaljerad information om varje produkt.
+Varukorg – Möjlighet att lägga till, ta bort och justera produkter.
+Kassasida – Simulerar ett köp och visar en sammanfattning.
+Dynamisk prisberäkning – Uppdaterar totalpriset baserat på varukorgen.
+LocalStorage – Sparar varukorgens innehåll mellan sidvisningar.
 
 ## 🛠️ Teknisk stack
 - HTML
@@ -19,16 +20,16 @@ Projektet är byggt med HTML, SCSS och TypeScript i Vite. Användaren kan blädd
 - Vite
 
 ## 🔄 Agilt arbetssätt
-Vi använde ett agilt tillvägagångssätt i projektet:
-- Daily standups
-- Sprintplanering
-- Backlog
-- Retrospektiv
-- Arbetade iterativt i sprintar
+Vi arbetade enligt agila principer med:
+
+Sprintplanering
+Daily standups
+Backlog-hantering
+Retrospektiv
+Iterativ utveckling med Kanban och sprintar
 
 ## 🎨 Design
 - Responsiv layout
 - Subtila animationer
-- Hero-sektion med visuella inslag
 
 
